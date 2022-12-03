@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(238, 136, 204, 0.89);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+#galery img{
+    width: 400px;
+    margin: 10px;
+    text-align: center;
+}
+#fotos img{
+    width: 400px;
+    margin: 10px;
+    text-align: center;
+}
